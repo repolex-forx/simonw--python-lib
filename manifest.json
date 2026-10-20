@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "python-lib",
+  "versions": [
+    {
+      "commit": "46ad133e8c15ba8a78488dd2d9f97b6136e3a384",
+      "parsed_at": "2026-10-20T10:12:37.761489+00:00",
+      "filetree": "filetree/46ad133e8c15ba8a78488dd2d9f97b6136e3a384.nq.gz",
+      "blobs": [
+        "blob/d034a581277491b3e9b04dfbc036672ef5dde8a4.nq.gz",
+        "blob/49efa25ce83d3709d35f5f589dbc69b8de511a8d.nq.gz",
+        "blob/c3fb10120f2529d61217d285a9479a11f8315e32.nq.gz",
+        "blob/038a3d49125dda98b3efa8eb368eee42108c7fe1.nq.gz",
+        "blob/1a03aacff6b65e7a7e4578a206767fde5307fd67.nq.gz",
+        "blob/33ecc5bacd8f4f4ab95531e8e90cf617c67b9f68.nq.gz",
+        "blob/1d24a1b02ab050b4f2c8e33b05ad5e32b10731c5.nq.gz",
+        "blob/db00e6fb015e0a34f5c5b069360a9a7bda8ba1ab.nq.gz",
+        "blob/923334ef15a25c993476fbb163a15b5d4a9451d5.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/bb068b35c5f985549642c6bd4b91aaf9e9e195bd.nq.gz",
+        "blob/00cd3624cfc646825b3ca9cd826c7e3363f593b2.nq.gz",
+        "blob/5a5d6ca20df7ee525fe81bba5a27bbada87a6656.nq.gz",
+        "blob/6090908934c2a028d46f4f9277734f25a85e08af.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
